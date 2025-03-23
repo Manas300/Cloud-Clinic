@@ -1,8 +1,7 @@
-# Real World App - Doctor Leong's Medical Clinic
+# Real World App - Medical Clinic
 
-### By Heng CAI, Christopher DALZIEL, Nhan DANG
+### By Manas Singh
 
-## _Part B - Documentation for Coding Component_
 
 #### Run Instructions
 
