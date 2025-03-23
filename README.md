@@ -15,15 +15,7 @@ Email: harrison.malone@coderacademy.edu.au
 Password: password
 ```
 
-## R10 - Link to deployed website
 
-- [Hosted Site](https://klinik-gp.netlify.com)
-
-## R11 - Link to Github repository
-
-- [Front End Repo](https://github.com/ChristopherDalziel/GP-Front)
-
-- [Back End Repo](https://github.com/ChristopherDalziel/GP-Back)
 
 ## R1 - Technology Stack
 
